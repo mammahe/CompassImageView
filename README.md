@@ -1,4 +1,4 @@
-<h1><span style="text-decoration: underline;">CircleImageView&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></h1>
+<h1><span style="text-decoration: underline;">CompassImageView&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></h1>
 <p><span style="font-size: 12pt;">A fast CompassImageView perfect for Round Images in Android.&nbsp;</span></p>
 <p><span style="text-decoration: underline;"><strong><span style="font-size: 14pt;">Usage</span></strong></span></p>
 <p><span style="font-size: 12pt;">Add it in your root build.gradle at the end of repositories:</span></p>
